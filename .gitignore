@@ -13,3 +13,7 @@ printer-[0-9]*_[0-9]*.cfg
  adxl_results/belts/*.csv
  adxl_results/vibrations/*.tar.gz
 >>>>>>> f0e33dd (Autocommit from 2025-04-06 13:54:49)
+moonraker-sql.db
+printer-*.cfg
+*.db
+*.log
